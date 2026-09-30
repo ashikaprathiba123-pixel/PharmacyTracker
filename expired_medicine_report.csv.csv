@@ -1,0 +1,6 @@
+ID,Medicine,Batch,Company,Quantity,Expiry Date
+15,Expired Antibiotic,EAB666,Old Pharma,6,2026-04-01
+12,Expired Capsule,EXC333,Demo Pharma,4,2026-01-05
+9,Expired Syrup,EXS909,Demo Pharma,7,2026-02-10
+6,Expired Pain Balm,EPB606,Demo Pharma,5,2026-03-15
+3,Expired Vitamin B,EVB303,HealthCare,12,2026-04-20
